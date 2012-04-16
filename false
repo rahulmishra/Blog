@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20120416202928_create_articles_categories.rb
